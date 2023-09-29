@@ -5,7 +5,7 @@ Restaurant Review Sentiment Analysis is a project made for San Francisco State U
 ## Getting Started
 
 The project uses Python 3.7.0 and the scikit-learn and pandas libraries. You must first install Python 3.7.0 in order to be able to run the project locally. You can download Python 3.7.0 here:    
-https://www.python.org/downloads/release/python-370/
+https://www.python.org/downloads/release/python-370/ 
 
 ## Running the Project
 
