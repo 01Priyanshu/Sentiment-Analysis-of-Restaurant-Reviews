@@ -35,5 +35,5 @@ python sentiment_analysis.py
 
 ## Authors
 
-* **Shota Ebikawa** - [shotaebikawa](https://github.com/ShotaEbikawa)
-* **Anastasios Grigoriou** - [tasogrigoriou](https://github.com/tasogrigoriou)
+
+* **Priyanshu Patra** - [01Priyanshu](https://github.com/01Priyanshu)
