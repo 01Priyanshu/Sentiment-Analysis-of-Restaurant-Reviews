@@ -1,4 +1,4 @@
-# Restaurant Review Sentiment Analysis
+# Restaurant Review Sentiment Analysis    
 
 Restaurant Review Sentiment Analysis is a project made for San Francisco State University CSC 849 Search Engines graduate course. Machine learning techniques and classical supervised learning algorithms were used. We first implemented a restaurant category classifier in order to predict the restaurant category label for a given set of restaurant reviews. We then use sentiment analysis to output the overall sentiment of a given user text review.
 
