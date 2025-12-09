@@ -25,7 +25,7 @@ cd Restaurant-Review-Sentiment-Analysis/python/project-files/src
 
 3. To run the restaurant category classifier program, run this command: 
 ```
-python restaurant_category.py    
+python restaurant_category.py       
 ```
 
 3. To run the sentiment analysis classifier program, run this command:
