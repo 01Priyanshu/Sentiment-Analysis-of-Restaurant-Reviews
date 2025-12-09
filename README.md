@@ -30,7 +30,7 @@ python restaurant_category.py
 
 3. To run the sentiment analysis classifier program, run this command:
 ```
-python sentiment_analysis.py
+python sentiment_analysis.py  
 ```
 
 ## Authors
