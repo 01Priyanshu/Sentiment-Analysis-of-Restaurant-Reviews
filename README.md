@@ -9,7 +9,7 @@ https://www.python.org/downloads/release/python-370/
 
 ## Running the Project
 
-1. Clone the project either using SSH or HTTPS.
+1. Clone the project either using SSH or HTTPS.   
 ```
 git clone git@github.com:ShotaEbikawa/Restaurant-Review-Sentiment-Analysis.git
 ```
