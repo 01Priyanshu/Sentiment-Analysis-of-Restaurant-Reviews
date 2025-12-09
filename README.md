@@ -13,7 +13,7 @@ https://www.python.org/downloads/release/python-370/
 ```
 git clone git@github.com:ShotaEbikawa/Restaurant-Review-Sentiment-Analysis.git
 ```
-OR
+OR  
 ```
 git clone https://github.com/ShotaEbikawa/Restaurant-Review-Sentiment-Analysis.git
 ```
